@@ -22,6 +22,13 @@ Use this CloudFormation template to install the state machine role.
 statemachinerole.yaml
 ```
 
+Use this file to create the state machine . 
+
+```bash
+petMe.json
+```
+Assign the statemachinerole to the state machine.
+
 ## Contributing
 Pull requests are limited to members of the project. 
 Members of this project include:
