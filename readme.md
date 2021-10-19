@@ -29,6 +29,18 @@ petMe.json
 ```
 Assign the statemachinerole to the state machine.
 
+Use this Python code to create a Lambda Function.
+
+```bash
+api-lambda.py
+```
+
+Create api gateway
+    select rest api
+    create a resource then create a method
+    deploy the api 
+
+
 ## Contributing
 Pull requests are limited to members of the project. 
 Members of this project include:
