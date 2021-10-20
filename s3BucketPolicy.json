@@ -6,7 +6,7 @@
       "Effect":"Allow",
       "Principal": "*",
       "Action":["s3:GetObject"],
-      "Resource":["ENTER PETME BUCKET ARN/*"]
+      "Resource":["REPLACE WITH PETME BUCKET ARN/*"]
     }
   ]
 }
