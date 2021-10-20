@@ -1,6 +1,6 @@
 
 var API_ENDPOINT = 'REPLACEME_API_GATEWAY_INVOKE_URL';
-// if correct it should be similar to https://somethingsomething.execute-api.us-east-1.amazonaws.com/prod/petcuddleotron
+// if correct it should be similar to https://somethingsomething.execute-api.us-east-1.amazonaws.com/prod/petMe
 
 var errorDiv = document.getElementById('error-message')
 var successDiv = document.getElementById('success-message')
