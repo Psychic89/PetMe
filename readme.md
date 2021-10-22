@@ -1,10 +1,17 @@
 # PetMe
 
-PetMe is an application for cats to communicate with their owner.
+PetMe is an application for cats to communicate with their owner. PetMe is based on a serverless architecture that includes the following services: 
+API Gateway, Lambda Functions, Step Functions, SES, SNS and S3 for a static website. 
+With PetMe website users can define the time the cats want to be petted, they can write a personal message and insert contact information like e-mail and/or phone number. Your personal data will only be used for this application.
 
 ## Installation
 
-In the SES menu Verify e-mail address for sender.
+In the console go to AWS SES. In the menu on the left side click e-mail addresses, verify the e-mail address for the sender for the receiver.
+The receiver will get a verification e-mail, which has to be confirmed.
+
+Go to the SNS service, on the left side click text messaging (SMS), scroll a bit down and add the phone number of the receiver.
+The receiver will get a verification code SMS, which has to be entered in the AWS console under "Verification code". Click "Verify phone number".
+
 Use this CloudFormation template to create stack then install the SES role for Lambda.
 
 ```bash
