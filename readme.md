@@ -1,4 +1,4 @@
-![Cat](https://focusedcollection.com/173594380/stock-photo-close-human-hand-stroking-cat.html "Cat")
+[![Cat](/focusedcollection.com/173594380/stock-photo-close-human-hand-stroking-cat.jpg "cat")](https://focusedcollection.com/173594380/stock-photo-close-human-hand-stroking-cat.html)
 
 # PetMe
 
