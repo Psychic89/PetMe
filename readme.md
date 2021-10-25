@@ -5,7 +5,7 @@ API Gateway, Lambda Functions, Step Functions, SES, SNS and S3 for a static webs
 With PetMe website users can define the time the cats want to be petted, they can write a personal message and humans can insert contact information like e-mail and/or phone number. Your personal data will only be used for this application.
 
 ## Architecture diagram
-<img src="images/Architecture_diagram.png">
+<img src="images/petme_architecture.jpg">
 
 ## Installation
 
