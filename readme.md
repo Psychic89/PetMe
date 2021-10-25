@@ -1,8 +1,12 @@
+![white cat]("C:\Users\VanessaSchwickart\OneDrive - Academic Work Academy Germany GmbH\Desktop\BilderREADME\pexels-pixabay-45201.jpg")
+
 # PetMe
 
 PetMe is an application for cats to communicate with their owner. PetMe is based on a serverless architecture that includes the following services: 
 API Gateway, Lambda Functions, Step Functions, SES, SNS and S3 for a static website. 
 With PetMe website users can define the time the cats want to be petted, they can write a personal message and insert contact information like e-mail and/or phone number. Your personal data will only be used for this application.
+
+![PetMe architecture diagram](/assets/images/san-juan-mountains.jpg)
 
 ## Installation
 
